@@ -1,7 +1,7 @@
--- THIS STORED PROCEDURE WILL DELETE ALL ROWS FROM TABLE AND INSERT NEW ONES --
-
--- Stage 1b: Table Update Stored Procedure BANKCARD CHARGES--
-
+----------------------------------------------------------------
+-- Stage 1b: Table Update Stored Procedure BANKCARD CHARGES --
+-- This stored procedure will delete all rows from table and insert new ones --
+----------------------------------------------------------------
 CREATE OR REPLACE PROCEDURE sp_tBankCardCharge_Data_Update()
 LANGUAGE plpgsql
 AS $$
