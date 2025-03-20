@@ -1,5 +1,5 @@
 ----------------------------------------------------------------
--- -- Stage 1a: Table Creation CUSTOMERS --
+-- Stage 1a: Table Creation CUSTOMERS --
 ----------------------------------------------------------------
 DROP TABLE IF EXISTS tCustomer_Import;
 
