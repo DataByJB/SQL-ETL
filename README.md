@@ -39,4 +39,5 @@ This project contains SQL scripts for an **ETL (Extract, Transform, Load) pipeli
 ## 📝 Author
 - 👤 Jamal B
 - 📧 [LinkedIn](https://www.linkedin.com/in/jamal-bartley-203860127/)
+- 🌐 [Visit my portfolio](https://databyjb.carrd.co)
 
